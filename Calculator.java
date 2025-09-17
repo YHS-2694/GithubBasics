@@ -4,3 +4,8 @@ public int addition(int a, int b) {
     sum += b;
     return sum;
 }
+
+public int substraction(int a, int b) {
+    return a - b;
+}
+
