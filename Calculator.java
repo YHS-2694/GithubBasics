@@ -1,7 +1,6 @@
-public class Calculator {
-
-    //editing the addtion
-    public int addition(int a, int b) {
-        return a + b;
-    }
+public int addition(int a, int b) {
+    int sum = 0;
+    sum += a;
+    sum += b;
+    return sum;
 }
